@@ -110,7 +110,7 @@
         background: rgb(205, 0, 0);
     }
     20%,40%,60%{
-        background: linear-gradient(#520303, #b10a0a);
+        background: linear-gradient(#790e0e, #b10a0a);
     }
     62%, 100%{
         background: crimson;
